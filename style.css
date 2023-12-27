@@ -1,12 +1,17 @@
-.main-BG{
+.main-background{
     font-family: 'Inter', sans-serif;
     font-family: 'Lato', sans-serif;
     font-family: 'Rubik', sans-serif;
     font-family: 'Tiro Bangla', serif;
     font-size: 25px;
+    
+    
+}
+.sec1-edit{
+    display: flex;
     background-image: url(images/main-BG.jpg);
     background-repeat: no-repeat;
-    
+
 }
 .first-div{
     color: aliceblue;
@@ -26,4 +31,11 @@
 }
 .All-P{
     color: aliceblue;
+}
+
+.sec2-edit{
+    display: flex;
+    background-image: url(images/main-BG.jpg);
+    background-repeat: no-repeat;
+    
 }
