@@ -1,0 +1,19 @@
+.main-BG{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    background-image: url(images/main-BG.jpg);
+    background-repeat: no-repeat;
+    
+}
+.first-div{
+    color: aliceblue;
+    padding-top: 60px;
+}
+
+.h1-text{
+    text-align: center;
+}
+.All-P{
+    color: aliceblue;
+}
