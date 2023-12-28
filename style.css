@@ -1,41 +1,35 @@
-.main-background{
+.first{
     font-family: 'Inter', sans-serif;
     font-family: 'Lato', sans-serif;
+    font-family: 'Oxygen', sans-serif;
     font-family: 'Rubik', sans-serif;
     font-family: 'Tiro Bangla', serif;
-    font-size: 25px;
-    
-    
-}
-.sec1-edit{
-    display: flex;
-    background-image: url(images/main-BG.jpg);
-    background-repeat: no-repeat;
-
-}
-.first-div{
     color: aliceblue;
-    padding-top: 60px;
+    background-image: url(images/main-BG.jpg);
+}
+
+.{
+    font-size: 25px;
+    background-image: url(/images/main-BG.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.text-c{
+    text-align: center;
+}
+.span-color{
+    color: aqua;
+    font-weight: bold;
+}
+body p{
+    font-size: 18px;
+}
+
+.text-deco{
+    text-decoration: dotted;
 }
 
 .h1-text{
-    text-align: center;
-}
-.bangla-font{
-    font-family: 'Lato', sans-serif;
-    font-family: 'Rubik', sans-serif;
-    font-family: 'Tiro Bangla', serif;
-}
-.bold-span{
-    text-b
-}
-.All-P{
-    color: aliceblue;
-}
-
-.sec2-edit{
-    display: flex;
-    background-image: url(images/main-BG.jpg);
-    background-repeat: no-repeat;
-    
+    font-size: 40px;
 }
