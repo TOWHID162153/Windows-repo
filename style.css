@@ -10,7 +10,7 @@
 
 .{
     font-size: 25px;
-    background-image: url(/images/main-BG.jpg);
+    background-image: url(images/main-BG.jpg);
     background-repeat: no-repeat;
     margin: 0;
 }
@@ -31,5 +31,19 @@ body p{
 }
 
 .h1-text{
-    font-size: 40px;
+    font-size: 38px;
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(aqua, blue);
+}
+
+
+/* .f-border{
+    background-color: rgba(0, 255, 255, 0.075);
+    padding: 0 ;
+    border: 8px solid rgba(128, 128, 128, 0.062);
+    border-radius: 50px;
+    margin: 50px 10% 10px 10%;
+
+} */
