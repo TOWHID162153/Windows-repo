@@ -35,15 +35,9 @@ body p{
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(aqua, blue);
+    background-image: linear-gradient(lightsteelblue, mediumturquoise);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: black;
 }
 
-
-/* .f-border{
-    background-color: rgba(0, 255, 255, 0.075);
-    padding: 0 ;
-    border: 8px solid rgba(128, 128, 128, 0.062);
-    border-radius: 50px;
-    margin: 50px 10% 10px 10%;
-
-} */
